@@ -9,5 +9,5 @@ title: On 2019 May 7 research
 [Reading paper](https://abhishekkar.info/categoryshapes.pdf)
 
 
-Adopting NRSfM model is based to estimate 2d image's structure. [https://www.cs.dartmouth.edu/~lorenzo/nrsfm.html](https://www.cs.dartmouth.edu/~lorenzo/nrsfm.html)
+Adopting NRSfM model is based to estimate 2d image's deformable 3D shape stracture. [https://www.cs.dartmouth.edu/~lorenzo/nrsfm.html](https://www.cs.dartmouth.edu/~lorenzo/nrsfm.html)
 
