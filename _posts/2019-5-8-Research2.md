@@ -25,3 +25,6 @@ Specifically, we demonstrate that GANs are able to learndistributions in situati
 (chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/1710.08446.pdf)
 
 chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/1406.2661.pdf
+
+
+chrome-extension://oemmndcbldboiebfnladdacbdfmadadm/https://arxiv.org/pdf/1901.11390.pdf
